@@ -15,7 +15,7 @@ imutils==0.5.2
 jsonpickle==1.2
 matplotlib==3.0.3
 numpy==1.16.2
-opencv-contrib-python==3.4.2.17
+opencv-contrib-python==4.2.0.32
 openpyxl==2.6.1
 packaging==19.0
 pandas==0.24.2
