@@ -14,7 +14,7 @@ importlib-metadata==0.0.0
 imutils==0.5.2
 jsonpickle==1.2
 matplotlib==3.0.3
-numpy==1.16.2
+numpy==1.22.0
 opencv-contrib-python==3.4.2.17
 openpyxl==2.6.1
 packaging==19.0
